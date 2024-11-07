@@ -1,0 +1,2 @@
+This is my odin project in full stack web development working.
+let start by doing little.
